@@ -1,0 +1,8 @@
+{
+  "name": "tictactoe-nodejs",
+  "version": "1.0.0",
+  "description": "a very simple terminal two player ticTacToe with nodejs",
+  "main": "index.js",
+  "author": "idin kaleqi",
+  "license": "MIT"
+}
